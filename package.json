@@ -11,7 +11,8 @@
   "author": "CallMeEcho",
   "dependencies": {
     "axios": "^0.21.1",
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
   },
   "devDependencies": {
     "eslint": "^7.29.0"
